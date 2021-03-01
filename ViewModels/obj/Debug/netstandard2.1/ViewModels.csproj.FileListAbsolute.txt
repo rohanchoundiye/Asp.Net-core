@@ -1,0 +1,9 @@
+D:\flightBookingDemo\ViewModels\bin\Debug\netstandard2.1\ViewModels.deps.json
+D:\flightBookingDemo\ViewModels\bin\Debug\netstandard2.1\ViewModels.dll
+D:\flightBookingDemo\ViewModels\bin\Debug\netstandard2.1\ViewModels.pdb
+D:\flightBookingDemo\ViewModels\obj\Debug\netstandard2.1\ViewModels.csprojAssemblyReference.cache
+D:\flightBookingDemo\ViewModels\obj\Debug\netstandard2.1\ViewModels.AssemblyInfoInputs.cache
+D:\flightBookingDemo\ViewModels\obj\Debug\netstandard2.1\ViewModels.AssemblyInfo.cs
+D:\flightBookingDemo\ViewModels\obj\Debug\netstandard2.1\ViewModels.csproj.CoreCompileInputs.cache
+D:\flightBookingDemo\ViewModels\obj\Debug\netstandard2.1\ViewModels.dll
+D:\flightBookingDemo\ViewModels\obj\Debug\netstandard2.1\ViewModels.pdb
